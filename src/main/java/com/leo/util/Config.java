@@ -3,7 +3,7 @@ package com.leo.util;
  * 
  * @ClassName: Config
  * @Description: 微信支付参数配置
- * @author: CIKE
+ * @author: leo
  * @date: 2016年3月31日 下午2:10:29
  */
 public class Config {
