@@ -12,8 +12,8 @@ public class WechatInfo {
 	public static final String WECHATQRCONNECT = "https://open.weixin.qq.com/connect/qrconnect";
 	public static final String APPID = "wxd5766a6d882dab7e";
 	//"http%3A%2F%2Fmaidehao.com%3A8080%2FwechatCallback"
-	public static final String REDIRECTURIOLD = "http://maidehao.com/wechatlogin-pox/wechatCallback";
-	public static final String REDIRECTURI = "http%3A%2F%2Fmaidehao.com%2Fwechatlogin-pox%2FwechatCallback";
+	public static final String REDIRECTURIOLD = "http://wxdev.maidehao.com/wechatlogin-pox/wechatCallback";
+	public static final String REDIRECTURI = "http%3A%2F%2Fwxdev.maidehao.com%2Fwechatlogin-pox%2FwechatCallback";
 
 	public static final String STATE = "3d6be0a4035d839573b04816624a4leo";
 	
